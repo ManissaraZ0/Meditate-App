@@ -1,6 +1,11 @@
 # 🧘 Samma Sati (Meditation App)
 Developed in 2024 as part of the CP213 Mobile Programming course. Samma Sati is a comprehensive mobile application designed to assist users in their spiritual and mental well-being through guided prayers, meditation timers, and relaxing soundscapes.
 
+## 📹 Demo Video
+
+[![Watch the Samma Sati demo](https://img.youtube.com/vi/cUGQF1c3bpQ/0.jpg)](https://youtu.be/cUGQF1c3bpQ)
+
+
 ## 🌟 Key Features
 **1. Prayers & Chants (Guided Reading & Listening)**
 * **Audio Library:** A collection of prayers and chants for users to listen to.
@@ -50,3 +55,4 @@ flutter pub get
 ```
 flutter run
 ```
+
