@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "734373727761",
+    "project_id": "meditate-a86dd",
+    "storage_bucket": "meditate-a86dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734373727761:android:1b8446bec6b06c8a792bb0",
+        "android_client_info": {
+          "package_name": "com.example.meditate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734373727761-ga6gf6aqbr2i0d7rvt6cr65rrnhlrqjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meditate",
+            "certificate_hash": "46b8b9e2f138057744afbe7d122b72ebf746ea87"
+          }
+        },
+        {
+          "client_id": "734373727761-4orep8lfjg21nj80a78dm0mr941gt588.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdI7MwYUAB08y2Tkwy10bCrD9CIaRMR7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734373727761-4orep8lfjg21nj80a78dm0mr941gt588.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
